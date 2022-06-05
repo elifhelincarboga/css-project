@@ -1,0 +1,38 @@
+.center {
+  text-align: center;
+}
+header h1 {
+  color: rgb(234, 45, 77);
+}
+.title {
+  color: darkgoldenrod;
+}
+
+
+#products ol {
+  list-style-position: inside;
+}
+#products ol li {
+  color: rgb(181, 81, 156)
+}
+#products h2 {
+  color: purple;
+}
+
+
+#aboutUs h2 {
+  text-align: center;
+  color:purple;
+}
+
+
+#home h2 {
+  color:purple;
+}
+#instrument ul {
+  list-style-position: inside;
+}
+#instrument h3 {
+  color:darkgoldenrod;
+}
+
